@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\BankAppWinForm\BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BankAppWinForm\BankApp\obj\Debug\BankApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\BankAppWinForm\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+C:\Users\User\Desktop\BankAppWinForm\BankApp\obj\Debug\BankApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BankAppWinForm\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
